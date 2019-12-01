@@ -1,0 +1,35 @@
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: darkgreen;
+    padding: 10px;
+    font-family: monospace;
+}
+
+h2 {
+    font-size: 24px;
+    font-style: italic;
+    color: darkgray;
+    padding: 10px;
+    
+}
+
+h3 {
+    font-size: 18px;
+    font-style: ;
+    color: darkblue;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    color:rebeccapurple;
+    padding: 1em 1em 0em 0em;
+    border-bottom-color: rebeccapurple;
+    border-width: 10px;
+    margin-bottom: 100px;
+}
