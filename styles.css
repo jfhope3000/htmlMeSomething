@@ -23,18 +23,14 @@ h3 {
     font-size: 18px;
     color: darkblue;
     padding: 10px 0 0 0;
-    margin-bottom:0;
+    margin: 10px 0 0 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-h3 > p.employer {
-    padding-top:0;
-    margin-top:0;
-}
 
 p { 
     font-family: Arial, Helvetica, sans-serif;
-    margin: 10px 0 10px 0;
+    
 }
 
 footer {
@@ -54,9 +50,12 @@ figcaption {
 
 
 .employer {
+    padding-top:0;
+    margin-top:0;
     color: darkslategray;
     font-size: 16px;
     font-weight: bold;
-    /* margin-top: 0; */
-    /* padding-top: 0; */
 }
+
+
+
