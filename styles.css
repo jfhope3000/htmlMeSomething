@@ -1,35 +1,62 @@
+html {
+    width: 1000px;
+    }
+
 h1 {
     font-size: 32px;
     font-weight: bold;
     color: darkgreen;
-    padding: 10px;
+    margin: 10px 0 10px 0;
     font-family: monospace;
 }
 
 h2 {
     font-size: 24px;
     font-style: italic;
-    color: darkgray;
-    padding: 10px;
+    color: darkslategray;
+    margin: 10px 0 10px 0;
     
 }
 
 h3 {
+    
     font-size: 18px;
-    font-style: ;
     color: darkblue;
-    padding: 10px;
+    padding: 10px 0 0 0;
+    margin-bottom:0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 > p.employer {
+    padding-top:0;
+    margin-top:0;
 }
 
 p { 
     font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0 10px 0;
 }
 
 footer {
     color:rebeccapurple;
-    padding: 1em 1em 0em 0em;
+    margin: 10px 0 10px 0;
     border-bottom-color: rebeccapurple;
     border-width: 10px;
     margin-bottom: 100px;
+}
+
+figcaption {
+    text-align: right;
+    font-size: 12px;
+    color:dimgray;
+    font-family: monospace;
+}
+
+
+.employer {
+    color: darkslategray;
+    font-size: 16px;
+    font-weight: bold;
+    /* margin-top: 0; */
+    /* padding-top: 0; */
 }
