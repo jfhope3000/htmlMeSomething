@@ -10,6 +10,10 @@ h1 {
     font-family: monospace;
 }
 
+#siteName {
+    text-align: center;
+}
+
 h2 {
     font-size: 24px;
     font-style: italic;
