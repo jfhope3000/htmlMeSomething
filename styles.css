@@ -41,6 +41,11 @@ footer {
     margin-bottom: 100px;
 }
 
+figure {
+
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 figcaption {
     text-align: right;
     font-size: 12px;
